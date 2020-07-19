@@ -1,0 +1,13 @@
+C:\Users\Philip\source\repos\AceToCapTool\AceToCapTool\bin\Debug\netcoreapp3.1\AceToCapTool.exe
+C:\Users\Philip\source\repos\AceToCapTool\AceToCapTool\obj\Debug\netcoreapp3.1\AceToCapTool.csprojAssemblyReference.cache
+C:\Users\Philip\source\repos\AceToCapTool\AceToCapTool\obj\Debug\netcoreapp3.1\AceToCapTool.AssemblyInfoInputs.cache
+C:\Users\Philip\source\repos\AceToCapTool\AceToCapTool\obj\Debug\netcoreapp3.1\AceToCapTool.AssemblyInfo.cs
+C:\Users\Philip\source\repos\AceToCapTool\AceToCapTool\bin\Debug\netcoreapp3.1\AceToCapTool.deps.json
+C:\Users\Philip\source\repos\AceToCapTool\AceToCapTool\bin\Debug\netcoreapp3.1\AceToCapTool.runtimeconfig.json
+C:\Users\Philip\source\repos\AceToCapTool\AceToCapTool\bin\Debug\netcoreapp3.1\AceToCapTool.runtimeconfig.dev.json
+C:\Users\Philip\source\repos\AceToCapTool\AceToCapTool\bin\Debug\netcoreapp3.1\AceToCapTool.dll
+C:\Users\Philip\source\repos\AceToCapTool\AceToCapTool\bin\Debug\netcoreapp3.1\AceToCapTool.pdb
+C:\Users\Philip\source\repos\AceToCapTool\AceToCapTool\obj\Debug\netcoreapp3.1\AceToCapTool.dll
+C:\Users\Philip\source\repos\AceToCapTool\AceToCapTool\obj\Debug\netcoreapp3.1\AceToCapTool.pdb
+C:\Users\Philip\source\repos\AceToCapTool\AceToCapTool\obj\Debug\netcoreapp3.1\AceToCapTool.csproj.CoreCompileInputs.cache
+C:\Users\Philip\source\repos\AceToCapTool\AceToCapTool\obj\Debug\netcoreapp3.1\AceToCapTool.genruntimeconfig.cache
