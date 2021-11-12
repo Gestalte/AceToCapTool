@@ -1,6 +1,7 @@
 # Warning
 
-Casual Arma Players no longer use the optional files from the Ace addons folder and instead use the optional files added as seperate mods to the workshop. This code is merely kept around on the off chance that we decide to return to the dark days of having to copy these files by ourselves instead of just using a preset file.
+<span style="color:red">
+Casual Arma Players no longer use the optional files from the Ace addons folder and instead use the optional files added as seperate mods to the workshop. This code is merely kept around on the off chance that we decide to return to the dark days of having to copy these files by ourselves instead of just using a preset file.</span>
 
 # AceToCapTool
 Copies or deletes ACE optional files, used by the [Casual Arma Players](https://units.arma3.com/unit/cap) unit, to or from ACE addons folder. This is the procedure described in step 2 of this document: https://steamcommunity.com/sharedfiles/filedetails/?id=937923182
